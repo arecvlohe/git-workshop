@@ -30,24 +30,24 @@
     - git log, git reflog
     - git push -f
     - git reset
-  - Aliases
+  - [] Aliases
     - https://www.atlassian.com/git/tutorials/git-alias
-  - CLI Tools
-    - https://github.com/cli/cli
-    - https://github.com/github/hub
-  - Learning
-    - https://git-scm.com/docs
-    - https://learngitbranching.js.org/
-    - https://try.github.io/
-  - Advanced
-    - rebase
-      - rebase vs merging
-      - https://git-scm.com/docs/git-rebase
-    - tags
-      - https://git-scm.com/book/en/v2/Git-Basics-Tagging
-    - git flow
-      - https://nvie.com/posts/a-successful-git-branching-model/
-      - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+  - []CLI Tools
+    - []https://github.com/cli/cli
+    - []https://github.com/github/hub
+  - []Learning
+    - []https://git-scm.com/docs
+    - []https://learngitbranching.js.org/
+    - []https://try.github.io/
+  - []Advanced
+    - []rebase
+      - []rebase vs merging
+      - []https://git-scm.com/docs/git-rebase
+    - []tags
+      - []https://git-scm.com/book/en/v2/Git-Basics-Tagging
+    - []git flow
+      - []https://nvie.com/posts/a-successful-git-branching-model/
+      - []https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 - GitHub and Git
   - Protected branches
     - https://help.github.com/en/github/administering-a-repository/about-protected-branches
