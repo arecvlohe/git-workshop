@@ -2,35 +2,35 @@
 
 ## Lessons
 
-- What is Git?
-  - https://twitter.com/_marcba/status/1248663011033853952
-- Git vs GitHub/Gitlab/Bitbucket/etc.
-  - https://gitcomp.com/
-  - https://keybase.io/blog/encrypted-git-for-everyone
-- Managing Git and GitHub
-  - Create GitHub account
-  - Configure GitHub via Git
-    - https://help.github.com/en/github/getting-started-with-github/set-up-git
-    - https://desktop.github.com/
-- Git Driven Development
-  - Basic
-    - git init
-    - git clone
-    - git branch
-    - git checkout <branch>
-    - git checkout -b <name>
-    - git checkout -
-    - git status
-    - git add <filename>, git add .
-    - git commit -m
-    - git push -u <remote> <branch>
-    - git pull
-    - git stash, git stash apply, git stash pop
-    - git merge
-    - git log, git reflog
-    - git push -f
-    - git reset
-  - [] Aliases
+- [x] What is Git?
+  - [x] https://twitter.com/_marcba/status/1248663011033853952
+- [x] Git vs GitHub/Gitlab/Bitbucket/etc.
+  - [x] https://gitcomp.com/
+  - [x] https://keybase.io/blog/encrypted-git-for-everyone
+- [x] Managing Git and GitHub
+  - [x] Create GitHub account
+  - [x] Configure GitHub via Git
+    - [x] https://help.github.com/en/github/getting-started-with-github/set-up-git
+    - [x] https://desktop.github.com/
+[] Git Driven Development
+  [] Basic
+    [x] git init
+    [x] git clone
+    [] git branch
+    [] git checkout <branch>
+    [x] git checkout -b <name>
+    [] git checkout -
+    [] git status
+    [] git add <filename>, git add .
+    [] git commit -m
+    [] git push -u <remote> <branch>
+    [] git pull
+    [] git stash, git stash apply, git stash pop
+    [] git merge
+    [] git log, git reflog
+    [] git push -f
+    [] git reset
+  - Aliases
     - https://www.atlassian.com/git/tutorials/git-alias
   - []CLI Tools
     - []https://github.com/cli/cli
