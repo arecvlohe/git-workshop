@@ -12,24 +12,24 @@
   - Configure GitHub via Git
     - https://help.github.com/en/github/getting-started-with-github/set-up-git
     - https://desktop.github.com/
-- Git Driven Development
-  - Basic
-    - git init
-    - git clone
-    - git branch
-    - git checkout <branch>
-    - git checkout -b <name>
-    - git checkout -
-    - git status
-    - git add <filename>, git add .
-    - git commit -m
-    - git push -u <remote> <branch>
-    - git pull
-    - git stash, git stash apply, git stash pop
-    - git merge
-    - git log, git reflog
-    - git push -f
-    - git reset
+[] Git Driven Development
+  [] Basic
+    [x] git init
+    [x] git clone
+    [] git branch
+    [] git checkout <branch>
+    [x] git checkout -b <name>
+    [] git checkout -
+    [] git status
+    [] git add <filename>, git add .
+    [] git commit -m
+    [] git push -u <remote> <branch>
+    [] git pull
+    [] git stash, git stash apply, git stash pop
+    [] git merge
+    [] git log, git reflog
+    [] git push -f
+    [] git reset
   - Aliases
     - https://www.atlassian.com/git/tutorials/git-alias
   - CLI Tools
